@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zacmarion7-dev.github.io/orphee-site_2/sitemap.xml

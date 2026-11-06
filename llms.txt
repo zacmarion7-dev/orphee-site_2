@@ -1,0 +1,10 @@
+# Orphée – The Vision of Knowledge
+
+> Orphée équipe les musées, châteaux et sites patrimoniaux de casques de réalité augmentée et de reconstitutions historiques en 3D sur mesure, en abonnement annuel clé en main (matériel, contenus, installation, formation, maintenance).
+
+## Pages
+- [Accueil](https://zacmarion7-dev.github.io/orphee-site_2/): présentation de l'offre, chiffres du Baromètre 2026 des publics des musées, comparaison tablette / VR / réalité augmentée, accessibilité, contact.
+
+## Points clés
+- Cible : directeurs de musées, responsables de médiation culturelle, responsables de projets numériques.
+- Différence : la réalité augmentée enrichit la vision de l'œuvre réelle sans la masquer, contrairement à la réalité virtuelle.
